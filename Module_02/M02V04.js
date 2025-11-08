@@ -35,3 +35,5 @@ const rang = (start, stop, step) =>
     (_, i) => start + i * step
   );
 console.log(rang(10, 100, 5));
+
+
